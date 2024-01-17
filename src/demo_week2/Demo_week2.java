@@ -16,7 +16,7 @@ public class Demo_week2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        system.out.println("Hello");
+        System.out.println("Hello");
         // TODO code application logic here
     }
     
